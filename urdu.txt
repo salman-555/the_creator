@@ -1,1 +1,3 @@
  hello team i am writing the urdu language here
+ 
+ it is working perfectly finr as well
